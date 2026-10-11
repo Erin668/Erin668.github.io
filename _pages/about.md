@@ -13,7 +13,7 @@ I am a PhD candidate in the joint doctoral programme between the <a href="https:
 
 My research interests lie in **vision-language models, multimodal large language models, generative AI, and computer vision**, with a focus on **fine-grained medical image segmentation, medical image and surgical video understanding, multimodal clinical reasoning, ophthalmic diagnosis, and intervention-aware world models**.
 
-I have four accepted first-author publications, including **two CVPR 2026 papers**, **AAAI 2025**, and **Pattern Recognition**.
+Welcome to contact me about research collaboration, please don't hesitate to drop me emails if you are interested.
 
 ## News
 
