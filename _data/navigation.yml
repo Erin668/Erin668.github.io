@@ -3,11 +3,7 @@ main:
     url: /#about-me
   - title: "News"
     url: /#news
-  - title: "Research"
-    url: /#research-interests
   - title: "Publications"
     url: /#publications
   - title: "Academic Service"
     url: /#academic-service
-  - title: "Contact"
-    url: /#contact
