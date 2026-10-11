@@ -13,7 +13,7 @@ I am a PhD candidate in the joint doctoral programme between the <a href="https:
 
 My research interests lie in **vision-language models, multimodal large language models, generative AI, and computer vision**, with a focus on **fine-grained medical image segmentation, medical image and surgical video understanding, multimodal clinical reasoning, ophthalmic diagnosis, and intervention-aware world models**.
 
-Welcome to contact me about research collaboration, please don't hesitate to drop me emails if you are interested.
+I welcome research collaborations. Please feel free to contact me by email if you are interested in discussing potential opportunities.
 
 ## News
 
@@ -26,12 +26,6 @@ Welcome to contact me about research collaboration, please don't hesitate to dro
 - **[2024.05]** Our paper [**ACAD**](https://doi.org/10.1016/j.patcog.2023.110240) was published in **Pattern Recognition**.
 - **[2023.11]** Our paper [**TransFace**](https://scholar.google.com/citations?view_op=view_citation&user=3DSNjtcAAAAJ&citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC) was presented at **ICVISP 2023**.
 
-
-## Research Interests
-
-- **Fine-Grained Medical Image Understanding:** Small lesion segmentation, multimodal fusion, semantic anchoring, and robust visual representations.
-- **Multimodal Clinical Reasoning:** Medical vision-language models, ophthalmic diagnosis, evidence-grounded reasoning, and spatiotemporal surgical video understanding.
-- **Generative World Models:** Intervention–response modeling, tissue dynamics, and future surgical-state prediction.
 
 ## Publications
 
