@@ -3,6 +3,8 @@ main:
     url: /#about-me
   - title: "News"
     url: /#news
+  - title: "Projects"
+    url: /#research-projects
   - title: "Publications"
     url: /#publications
   - title: "Academic Service"
