@@ -23,7 +23,7 @@ Welcome to contact me about research collaboration, please don't hesitate to dro
 - **[2026.05]** Our paper [**M-MambaS**](https://doi.org/10.1016/j.patcog.2026.113923) was published in **Pattern Recognition**.
 - **[2025.04]** Our paper [**S³-Mamba**](https://doi.org/10.1609/aaai.v39i7.32824) was published at **AAAI 2025**.
 - **[2024.05]** Our paper [**PointFaceFormer**](https://doi.org/10.1109/FG59268.2024.10581966) was published at **FG 2024**.
-- **[2024.05]** Our paper [**Network Characteristics Adaption and Hierarchical Feature Exploration**](https://doi.org/10.1016/j.patcog.2023.110240) was published in **Pattern Recognition**.
+- **[2024.05]** Our paper [**ACAD**](https://doi.org/10.1016/j.patcog.2023.110240) was published in **Pattern Recognition**.
 - **[2023.11]** Our paper [**TransFace**](https://scholar.google.com/citations?view_op=view_citation&user=3DSNjtcAAAAJ&citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC) was presented at **ICVISP 2023**.
 
 
