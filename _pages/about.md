@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD candidate in the joint doctoral programme between the <a href="https://www.nottingham.ac.uk/" target="_blank" rel="noopener noreferrer"><strong>University of Nottingham</strong></a> and <a href="https://www.szu.edu.cn/" target="_blank" rel="noopener noreferrer"><strong>Shenzhen University</strong></a>. I am very fortunate to be advised by [Prof. Linlin Shen](https://ai.szu.edu.cn/english/info/1102/6222.htm), [Dr. Jianfeng Ren](https://unnc.globalimpact.cn/en/persons/jianfeng-ren/), and [Prof. Rong Qu](https://people.cs.nott.ac.uk/pszrq/).
 
-My research focuses on **multimodal medical AI, medical image and video understanding, evidence-grounded clinical reasoning, and generative world models**. I am interested in learning reliable representations from heterogeneous medical evidence, reasoning across clinical modalities, and predicting intervention-dependent future states.
+My research interests lie in **vision-language models, multimodal large language models, generative AI, and computer vision**, with a focus on **fine-grained medical image segmentation, medical image and surgical video understanding, multimodal clinical reasoning, ophthalmic diagnosis, and intervention-aware world models**.
 
 I have four accepted first-author publications, including **two CVPR 2026 papers**, **AAAI 2025**, and **Pattern Recognition**.
 
