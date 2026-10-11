@@ -5,8 +5,8 @@ main:
     url: /#news
   - title: "Projects"
     url: /#research-projects
-  - title: "Publications"
-    url: /#publications
+  - title: "Selected Publications"
+    url: /#selected-publications
   - title: "Academic Service"
     url: /#academic-service
   - title: "Activities"
