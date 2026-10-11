@@ -17,9 +17,11 @@ Welcome to contact me about research collaboration, please don't hesitate to dro
 
 ## News
 
-- **2026:** Two first-author papers, *SurgCoT* and *X-PCR*, accepted at **CVPR 2026**.
-- **2026:** *M-MambaS* accepted in **Pattern Recognition**.
-- **2025:** *S³-Mamba* published at **AAAI 2025**.
+- **Jun. 2026:** Our paper [*SurgCoT: Advancing Spatiotemporal Reasoning in Surgical Videos through a Chain-of-Thought Benchmark*](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.pdf) was published at **CVPR 2026**, introducing an evidence-grounded chain-of-thought benchmark for surgical video reasoning.
+- **Jun. 2026:** Our paper [*X-PCR: A Benchmark for Cross-modality Progressive Clinical Reasoning in Ophthalmic Diagnosis*](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_X-PCR_A_Benchmark_for_Cross-modality_Progressive_Clinical_Reasoning_in_Ophthalmic_CVPR_2026_paper.pdf) was published at **CVPR 2026**, evaluating progressive clinical reasoning across ophthalmic imaging modalities.
+- **May 2026:** Our paper [*M-MambaS: Multimodal Mamba for Small Lesion Segmentation*](https://doi.org/10.1016/j.patcog.2026.113923) was published online in **Pattern Recognition**, presenting multimodal feature fusion for small lesion segmentation.
+- **Apr. 2025:** Our paper [*S³-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation*](https://doi.org/10.1609/aaai.v39i7.32824) was published in the **AAAI 2025** proceedings, introducing small-lesion-sensitive feature learning.
+
 
 ## Research Interests
 
