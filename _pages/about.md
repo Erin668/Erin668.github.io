@@ -29,6 +29,11 @@ I welcome research collaborations. Please feel free to contact me by email if yo
 
 ## Publications
 
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=3DSNjtcAAAAJ).
+
+*\* Corresponding author.*
+
+
 <div class="publication-entry"><div class="publication-figure"><a class="publication-figure-link" href="https://raw.githubusercontent.com/CVI-SZU/SurgCoT/main/assets/fig1_overview.png" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/CVI-SZU/SurgCoT/main/assets/fig1_overview.png" loading="lazy" alt="Fig. 1 · Benchmark overview" /><span class="publication-figure-caption">Fig. 1 · Benchmark overview</span></a></div><div class="publication-details"><div class="publication-title"><a class="publication-title-link" href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.pdf" target="_blank" rel="noopener noreferrer">SurgCoT: Advancing Spatiotemporal Reasoning in Surgical Videos through a Chain-of-Thought Benchmark</a></div><div class="publication-authors"><strong>Gui Wang</strong>, Yongsong Zhou, Kaijun Deng, Wooi Ping Cheah, Rong Qu, Jianfeng Ren*, Linlin Shen*</div><div class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.</div><div class="publication-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a></div></div></div>
 
 
