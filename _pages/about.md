@@ -71,25 +71,33 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 - **Conference Reviewer:** ICLR 2027, CVPR 2026, NeurIPS 2026, ACM Multimedia 2026, MICCAI 2026.
 - **Journal Reviewer:** IEEE Transactions on Medical Imaging; Pattern Recognition.
 
+<style>
+@media(max-width:650px) {
+  .academic-moments .academic-moment { flex-direction:column !important; align-items:flex-start !important; }
+  .academic-moments .academic-moment > a { flex:initial !important; width:100% !important; }
+  .academic-moments .academic-moment img { width:100% !important; max-width:340px !important; height:auto !important; max-height:320px !important; }
+}
+</style>
+
 ## Academic Activities & Moments
 
 A few memorable moments from international research conferences and opportunities to reflect on ideas shaping computer vision and medical AI.
 
-<div class="academic-moments">
-  <figure class="academic-moment">
+<div class="academic-moments" style="display:flex;flex-direction:column;gap:24px;width:100%;margin:1.25rem 0 2rem;">
+  <figure class="academic-moment" style="display:flex;flex-direction:row;align-items:center;gap:24px;width:100%;margin:0;padding-bottom:22px;border-bottom:1px solid #eceff1;">
     {% assign eccv_photo = site.static_files | where: "path", "/assets/ECCV2026-LeCun.jpg" | first %}
-    {% if eccv_photo %}<a href="{{ '/assets/ECCV2026-LeCun.jpg' | relative_url }}" target="_blank"><img src="{{ '/assets/ECCV2026-LeCun.jpg' | relative_url }}" alt="At ECCV 2026 with Yann LeCun" loading="lazy"></a>{% endif %}
-    <figcaption><strong>ECCV 2026 · September 2026</strong><br>At ECCV with Yann LeCun. Research on world models, predictive representations, and learning from interactions is particularly relevant to my interest in intervention-aware medical world modeling.</figcaption>
+    {% if eccv_photo %}<a style="display:block;flex:0 0 230px;width:230px;" href="{{ '/assets/ECCV2026-LeCun.jpg' | relative_url }}" target="_blank"><img style="display:block;width:230px;max-width:100%;height:190px;object-fit:contain;background:#fff;" src="{{ '/assets/ECCV2026-LeCun.jpg' | relative_url }}" alt="At ECCV 2026 with Yann LeCun" loading="lazy"></a>{% endif %}
+    <figcaption style="flex:1;min-width:0;font-size:.9em;line-height:1.75;padding:0;"><strong>ECCV 2026 · September 2026</strong><br>At ECCV with Yann LeCun. Research on world models, predictive representations, and learning from interactions is particularly relevant to my interest in intervention-aware medical world modeling.</figcaption>
   </figure>
-  <figure class="academic-moment">
+  <figure class="academic-moment" style="display:flex;flex-direction:row;align-items:center;gap:24px;width:100%;margin:0;padding-bottom:22px;border-bottom:1px solid #eceff1;">
     {% assign cvpr_photo = site.static_files | where: "path", "/assets/CVPR2026-KaimingHe.jpg" | first %}
-    {% if cvpr_photo %}<a href="{{ '/assets/CVPR2026-KaimingHe.jpg' | relative_url }}" target="_blank"><img src="{{ '/assets/CVPR2026-KaimingHe.jpg' | relative_url }}" alt="At CVPR 2026 with Kaiming He" loading="lazy"></a>{% endif %}
-    <figcaption><strong>CVPR 2026 · June 2026</strong><br>At CVPR with Kaiming He. His contributions to self-supervised visual representation learning, including masked autoencoders, connect closely to robust feature learning for medical images.</figcaption>
+    {% if cvpr_photo %}<a style="display:block;flex:0 0 230px;width:230px;" href="{{ '/assets/CVPR2026-KaimingHe.jpg' | relative_url }}" target="_blank"><img style="display:block;width:230px;max-width:100%;height:190px;object-fit:contain;background:#fff;" src="{{ '/assets/CVPR2026-KaimingHe.jpg' | relative_url }}" alt="At CVPR 2026 with Kaiming He" loading="lazy"></a>{% endif %}
+    <figcaption style="flex:1;min-width:0;font-size:.9em;line-height:1.75;padding:0;"><strong>CVPR 2026 · June 2026</strong><br>At CVPR with Kaiming He. His contributions to self-supervised visual representation learning, including masked autoencoders, connect closely to robust feature learning for medical images.</figcaption>
   </figure>
-  <figure class="academic-moment">
+  <figure class="academic-moment" style="display:flex;flex-direction:row;align-items:center;gap:24px;width:100%;margin:0;padding-bottom:22px;border-bottom:1px solid #eceff1;">
     {% assign aaai_photo = site.static_files | where: "path", "/assets/AAAI2025-AndrewNg.jpg" | first %}
-    {% if aaai_photo %}<a href="{{ '/assets/AAAI2025-AndrewNg.jpg' | relative_url }}" target="_blank"><img src="{{ '/assets/AAAI2025-AndrewNg.jpg' | relative_url }}" alt="At AAAI 2025 with Andrew Ng" loading="lazy"></a>{% endif %}
-    <figcaption><strong>AAAI 2025 · February 2025</strong><br>At AAAI with Andrew Ng. His work on data-centric AI and practical machine learning highlights the importance of high-quality clinical data and dependable real-world medical AI.</figcaption>
+    {% if aaai_photo %}<a style="display:block;flex:0 0 230px;width:230px;" href="{{ '/assets/AAAI2025-AndrewNg.jpg' | relative_url }}" target="_blank"><img style="display:block;width:230px;max-width:100%;height:190px;object-fit:contain;background:#fff;" src="{{ '/assets/AAAI2025-AndrewNg.jpg' | relative_url }}" alt="At AAAI 2025 with Andrew Ng" loading="lazy"></a>{% endif %}
+    <figcaption style="flex:1;min-width:0;font-size:.9em;line-height:1.75;padding:0;"><strong>AAAI 2025 · February 2025</strong><br>At AAAI with Andrew Ng. His work on data-centric AI and practical machine learning highlights the importance of high-quality clinical data and dependable real-world medical AI.</figcaption>
   </figure>
 </div>
 
