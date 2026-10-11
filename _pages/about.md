@@ -71,6 +71,28 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 - **Conference Reviewer:** ICLR 2027, CVPR 2026, NeurIPS 2026, ACM Multimedia 2026, MICCAI 2026.
 - **Journal Reviewer:** IEEE Transactions on Medical Imaging; Pattern Recognition.
 
+## Academic Activities & Moments
+
+A few memorable moments from international research conferences and opportunities to reflect on ideas shaping computer vision and medical AI.
+
+<div class="academic-moments">
+  <figure class="academic-moment">
+    {% assign eccv_photo = site.static_files | where: "path", "/assets/ECCV2026-LeCun.jpg" | first %}
+    {% if eccv_photo %}<a href="{{ '/assets/ECCV2026-LeCun.jpg' | relative_url }}" target="_blank"><img src="{{ '/assets/ECCV2026-LeCun.jpg' | relative_url }}" alt="At ECCV 2026 with Yann LeCun" loading="lazy"></a>{% endif %}
+    <figcaption><strong>ECCV 2026 · September 2026</strong><br>At ECCV with Yann LeCun. Research on world models, predictive representations, and learning from interactions is particularly relevant to my interest in intervention-aware medical world modeling.</figcaption>
+  </figure>
+  <figure class="academic-moment">
+    {% assign cvpr_photo = site.static_files | where: "path", "/assets/CVPR2026-KaimingHe.jpg" | first %}
+    {% if cvpr_photo %}<a href="{{ '/assets/CVPR2026-KaimingHe.jpg' | relative_url }}" target="_blank"><img src="{{ '/assets/CVPR2026-KaimingHe.jpg' | relative_url }}" alt="At CVPR 2026 with Kaiming He" loading="lazy"></a>{% endif %}
+    <figcaption><strong>CVPR 2026 · June 2026</strong><br>At CVPR with Kaiming He. His contributions to self-supervised visual representation learning, including masked autoencoders, connect closely to robust feature learning for medical images.</figcaption>
+  </figure>
+  <figure class="academic-moment">
+    {% assign aaai_photo = site.static_files | where: "path", "/assets/AAAI2025-AndrewNg.jpg" | first %}
+    {% if aaai_photo %}<a href="{{ '/assets/AAAI2025-AndrewNg.jpg' | relative_url }}" target="_blank"><img src="{{ '/assets/AAAI2025-AndrewNg.jpg' | relative_url }}" alt="At AAAI 2025 with Andrew Ng" loading="lazy"></a>{% endif %}
+    <figcaption><strong>AAAI 2025 · February 2025</strong><br>At AAAI with Andrew Ng. His work on data-centric AI and practical machine learning highlights the importance of high-quality clinical data and dependable real-world medical AI.</figcaption>
+  </figure>
+</div>
+
 ## Contact
 
 Email: [scxgw1@nottingham.ac.uk](mailto:scxgw1@nottingham.ac.uk)  
