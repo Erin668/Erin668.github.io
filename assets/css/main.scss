@@ -37,3 +37,45 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Gui Wang: readable academic sidebar; no clipping or horizontal scrolling. */
+@media screen and (min-width: 1024px) {
+  #main {
+    max-width: 1260px;
+    width: calc(100% - 48px);
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  #main .sidebar {
+    position: relative;
+    float: left;
+    top: auto;
+    height: auto;
+    overflow: visible;
+    padding-top: 0;
+    padding-right: 24px;
+    width: 260px;
+    max-width: none;
+    margin: 0;
+  }
+  #main .page {
+    float: right;
+    width: calc(100% - 260px);
+    padding-left: 28px;
+    padding-right: 0;
+    margin: 0;
+  }
+}
+.sidebar .author__bio,
+.sidebar .author__urls li {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+.sidebar .author__urls {
+  width: 100%;
+  max-width: 100%;
+}
+.sidebar .author__urls li {
+  line-height: 1.5;
+}
