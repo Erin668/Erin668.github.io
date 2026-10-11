@@ -79,3 +79,28 @@
 .sidebar .author__urls li {
   line-height: 1.5;
 }
+
+/* Two-column paper list: academic figure + bibliographic information */
+.publication-help { color: #747f89; font-size: .83em; margin-bottom: 1.3em; }
+.page__content .publication-group { margin-top: 1.5em; margin-bottom: 1.2em; font-size: 1.1em; font-weight: 700; }
+.publication-entry { display: grid; grid-template-columns: minmax(155px, 32%) minmax(0, 1fr); gap: 22px; align-items: center; padding: 0 0 26px; margin-bottom: 22px; border-bottom: 1px solid #edf0f2; }
+.publication-entry .publication-figure { width: 100%; min-width: 0; }
+.publication-entry .publication-figure-link { display: block; text-decoration: none; }
+.publication-entry .publication-figure img { width: 100%; max-width: 100%; height: 138px; display: block; object-fit: contain; background: #fff; }
+.publication-entry .publication-figure-caption { font-size: .68em; display: block; color: #8a949c; text-align: center; margin-top: 4px; }
+.publication-no-figure { border: 1px solid #e8eaed; background: #f8f9fa; min-height: 130px; padding: 14px; display: flex; flex-direction: column; align-items: center; justify-content: center; color: #88949e; text-align: center; }
+.publication-no-figure span { font-size: .72em; font-weight: 600; }
+.publication-no-figure small { font-size: .65em; line-height: 1.35; margin-top: 8px; }
+.publication-details { min-width: 0; overflow-wrap: anywhere; }
+.publication-title { font-size: 1.05em; font-weight: 600; line-height: 1.5; margin-bottom: 7px; }
+.page__content .publication-title-link { color: #1e4f8f; text-decoration: none; }
+.page__content .publication-title-link:hover { text-decoration: underline; }
+.publication-authors { font-size: .87em; color: #484f59; line-height: 1.6; }
+.publication-venue { font-size: .88em; font-style: italic; margin-top: 4px; }
+.publication-links { margin-top: 6px; font-size: .86em; }
+.publication-footnote { font-size: .75em; color: #858b91; margin-top: 20px; }
+@media(max-width: 650px) {
+  .publication-entry { grid-template-columns: 1fr; gap: 12px; }
+  .publication-figure { max-width: 330px; }
+  .publication-entry .publication-figure img { height: 180px; }
+}
