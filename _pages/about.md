@@ -16,16 +16,17 @@ My research interests lie in **vision-language models, multimodal large language
 I welcome research collaborations. Please feel free to contact me by email if you are interested in discussing potential opportunities.
 
 ## News
-
 - **[2026.09]** Our paper [**MoCaf-Mamba**](https://papers.miccai.org/miccai-2026/0665-Paper3091.html) was published at **MICCAI 2026**.
+- **[2026.09]** Attended **ECCV 2026** in Malmö, Sweden, engaging with research on world models and visual representation learning.
 - **[2026.06]** Our paper [**SurgCoT**](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.pdf) was published at **CVPR 2026**.
 - **[2026.06]** Our paper [**X-PCR**](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_X-PCR_A_Benchmark_for_Cross-modality_Progressive_Clinical_Reasoning_in_Ophthalmic_CVPR_2026_paper.pdf) was published at **CVPR 2026**.
+- **[2026.06]** Attended **CVPR 2026** in Denver, USA, presenting our research on surgical video reasoning and multimodal ophthalmic diagnosis.
 - **[2026.05]** Our paper [**M-MambaS**](https://doi.org/10.1016/j.patcog.2026.113923) was published in **Pattern Recognition**.
 - **[2025.04]** Our paper [**S³-Mamba**](https://doi.org/10.1609/aaai.v39i7.32824) was published at **AAAI 2025**.
+- **[2025.02]** Attended **AAAI 2025** in Philadelphia, USA, presenting our work on small lesion segmentation.
 - **[2024.05]** Our paper [**PointFaceFormer**](https://doi.org/10.1109/FG59268.2024.10581966) was published at **FG 2024**.
 - **[2024.05]** Our paper [**ACAD**](https://doi.org/10.1016/j.patcog.2023.110240) was published in **Pattern Recognition**.
 - **[2023.11]** Our paper [**TransFace**](https://scholar.google.com/citations?view_op=view_citation&user=3DSNjtcAAAAJ&citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC) was presented at **ICVISP 2023**.
-
 
 ## Research Projects
 
