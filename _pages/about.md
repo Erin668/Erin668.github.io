@@ -48,7 +48,7 @@ I welcome research collaborations. Please feel free to contact me by email if yo
   </div>
 </div>
 
-## Publications
+## Selected Publications
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=3DSNjtcAAAAJ).
 
