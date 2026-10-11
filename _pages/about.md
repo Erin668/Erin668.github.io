@@ -73,6 +73,20 @@ Welcome to contact me about research collaboration, please don't hesitate to dro
 **Gui Wang**, Zirui Mo, Jianfeng Ren*, Linlin Shen*  
 *Manuscript in preparation, 2026.*
 
+### Other Co-authored Publications
+
+[**PointFaceFormer: Local and Global Attention Based Transformer for 3D Point Cloud Face Recognition**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3DSNjtcAAAAJ&sortby=pubdate&citation_for_view=3DSNjtcAAAAJ:qjMakFHDy7sC)  
+Z. Gao, Q. Li, **G. Wang**, L. Shen  
+*2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG), 2024.*
+
+[**Network Characteristics Adaption and Hierarchical Feature Exploration for Robust Object Recognition**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3DSNjtcAAAAJ&sortby=pubdate&citation_for_view=3DSNjtcAAAAJ:u5HHmVD_uO8C)  
+W. Xie, C. Luo, **G. Wang**, L. Shen, Z. Lai, S. Song  
+*Pattern Recognition, 149, 110240, 2024.*
+
+[**TransFace: Parametric Attention Based Transformer for Face Recognition**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3DSNjtcAAAAJ&sortby=pubdate&citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC)  
+Z. Luo, Z. Yang, **G. Wang**, C. Yin, X. Hou, L. Shen  
+*IET Conference Proceedings, CP862, 2023 (30), pp. 72–78.*
+
 *Corresponding authors are marked with *. Publication status follows the supplied CV.*
 
 ## Academic Service
