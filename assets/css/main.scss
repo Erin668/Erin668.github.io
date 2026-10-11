@@ -169,3 +169,11 @@
   .academic-moment { grid-template-columns: 1fr; gap: 12px; }
   .academic-moment img { width: 100%; max-width: 340px; height: auto; max-height: 320px; }
 }
+
+/* Research Projects: restrained academic research overview. */
+.research-projects { margin: 1rem 0 2rem; }
+.research-project { padding: 14px 0 17px; border-bottom: 1px solid #e9ecef; }
+.research-project:first-child { padding-top: 0; }
+.page__content .research-project h3 { font-size: 1.05em; margin: 0 0 7px; color: #384b5c; }
+.research-project p { margin: 0 0 7px; font-size: .91em; line-height: 1.65; }
+.research-project p:last-child { margin-bottom: 0; color: #65717d; }
