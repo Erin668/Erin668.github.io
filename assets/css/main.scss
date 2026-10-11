@@ -104,3 +104,23 @@
   .publication-figure { max-width: 330px; }
   .publication-entry .publication-figure img { height: 180px; }
 }
+
+/* Academic Activities & Moments: restrained conference photo gallery. */
+.academic-moments {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 1.25rem 0 2rem;
+}
+.academic-moment { margin: 0; min-width: 0; }
+.academic-moment > a { display: block; }
+.academic-moment img {
+  width: 100%; height: 205px; object-fit: cover; object-position: center 35%;
+  border-radius: 3px; border: 1px solid #e6e8eb; display: block;
+}
+.academic-moment figcaption { color: #626a72; font-size: .76em; line-height: 1.65; padding-top: 10px; }
+.academic-moment figcaption strong { color: #41484f; }
+@media (max-width: 720px) {
+  .academic-moments { grid-template-columns: 1fr; gap: 24px; }
+  .academic-moment img { height: auto; max-height: 380px; object-fit: contain; }
+}
