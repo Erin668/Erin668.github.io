@@ -29,63 +29,41 @@ I welcome research collaborations. Please feel free to contact me by email if yo
 
 ## Publications
 
-### Peer-Reviewed and Accepted
+<div class="publication-help">Selected publications and manuscripts. Click a paper title to open the publication. Figure thumbnails are shown only when a verified figure source is available.</div>
 
-**SurgCoT: Advancing Spatiotemporal Reasoning in Surgical Videos through a Chain-of-Thought Benchmark**  
-**Gui Wang**, Yongsong Zhou, Kaijun Deng, Wooi Ping Cheah, Rong Qu, Jianfeng Ren*, Linlin Shen*  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*
+<h3 class="publication-group">Peer-Reviewed and Accepted</h3>
 
-**X-PCR: A Benchmark for Cross-modality Progressive Clinical Reasoning in Ophthalmic Diagnosis**  
-**Gui Wang**, Zehao Zhong, Yongsong Zhou, Yudong Li, Ende Wu, Wooi Ping Cheah, Rong Qu, Jianfeng Ren*, Linlin Shen*  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*
+<div class="publication-entry"><div class="publication-figure"><a class="publication-figure-link" href="https://raw.githubusercontent.com/CVI-SZU/SurgCoT/main/assets/fig1_overview.png" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/CVI-SZU/SurgCoT/main/assets/fig1_overview.png" loading="lazy" alt="Fig. 1 · Benchmark overview" /><span class="publication-figure-caption">Fig. 1 · Benchmark overview</span></a></div><div class="publication-details"><div class="publication-title"><a class="publication-title-link" href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.pdf" target="_blank" rel="noopener noreferrer">SurgCoT: Advancing Spatiotemporal Reasoning in Surgical Videos through a Chain-of-Thought Benchmark</a></div><div class="publication-authors"><strong>Gui Wang</strong>, Yongsong Zhou, Kaijun Deng, Wooi Ping Cheah, Rong Qu, Jianfeng Ren<em>, Linlin Shen</em></div><div class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.</div><div class="publication-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a></div></div></div>
 
-**S³-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation**  
-**Gui Wang**, Yuexiang Li, Wenting Chen, Meidan Ding, Jianfeng Ren*, Linlin Shen*  
-*AAAI Conference on Artificial Intelligence, 39(7):7655–7664, 2025.*
+<div class="publication-entry"><div class="publication-figure"><a class="publication-figure-link" href="https://raw.githubusercontent.com/CVI-SZU/X-PCR/main/assets/overview.png" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/CVI-SZU/X-PCR/main/assets/overview.png" loading="lazy" alt="Overview · Progressive &amp; cross-modal reasoning" /><span class="publication-figure-caption">Overview · Progressive &amp; cross-modal reasoning</span></a></div><div class="publication-details"><div class="publication-title"><a class="publication-title-link" href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_X-PCR_A_Benchmark_for_Cross-modality_Progressive_Clinical_Reasoning_in_Ophthalmic_CVPR_2026_paper.pdf" target="_blank" rel="noopener noreferrer">X-PCR: A Benchmark for Cross-modality Progressive Clinical Reasoning in Ophthalmic Diagnosis</a></div><div class="publication-authors"><strong>Gui Wang</strong>, Zehao Zhong, Yongsong Zhou, Yudong Li, Ende Wu, Wooi Ping Cheah, Rong Qu, Jianfeng Ren<em>, Linlin Shen</em></div><div class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.</div><div class="publication-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_X-PCR_A_Benchmark_for_Cross-modality_Progressive_Clinical_Reasoning_in_Ophthalmic_CVPR_2026_paper.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a></div></div></div>
 
-**M-MambaS: Multimodal Mamba for Small Lesion Segmentation**  
-**Gui Wang**, Jianfeng Ren*, Linlin Shen*, Wooi Ping Cheah, Rong Qu  
-*Pattern Recognition, Article 113923, 2026.*
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>S³-Mamba</small></div></div><div class="publication-details"><div class="publication-title"><a class="publication-title-link" href="https://doi.org/10.1609/aaai.v39i7.32824" target="_blank" rel="noopener noreferrer">S³-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation</a></div><div class="publication-authors"><strong>Gui Wang</strong>, Yuexiang Li, Wenting Chen, Meidan Ding, Jianfeng Ren<em>, Linlin Shen</em></div><div class="publication-venue">AAAI Conference on Artificial Intelligence, 39(7):7655–7664, 2025.</div><div class="publication-links"><a href="https://doi.org/10.1609/aaai.v39i7.32824" target="_blank" rel="noopener noreferrer">[Paper]</a></div></div></div>
 
-### Under Review
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>M-MambaS</small></div></div><div class="publication-details"><div class="publication-title"><a class="publication-title-link" href="https://doi.org/10.1016/j.patcog.2026.113923" target="_blank" rel="noopener noreferrer">M-MambaS: Multimodal Mamba for Small Lesion Segmentation</a></div><div class="publication-authors"><strong>Gui Wang</strong>, Jianfeng Ren<em>, Linlin Shen</em>, Wooi Ping Cheah, Rong Qu</div><div class="publication-venue">Pattern Recognition, Article 113923, 2026.</div><div class="publication-links"><a href="https://doi.org/10.1016/j.patcog.2026.113923" target="_blank" rel="noopener noreferrer">[Paper]</a></div></div></div>
 
-**SurgCouple: Coupling Global Context with Local Cues via Chain of Spatio-temporal Evidence for Surgical Video Understanding**  
-**Gui Wang**, Zirui Mo, Jianfeng Ren*, Linlin Shen*, Rong Qu, Wooi Ping Cheah  
-*ICLR 2027 submission, under review (2026).*
+<h3 class="publication-group">Under Review</h3>
 
-**MultiKnee: A Multi-Sequence Multi-View MRI Benchmark for Evidence-Chain Knee Diagnosis**  
-**Gui Wang**, Yongsong Zhou, Yi Xu, Rong Qu, Wooi Ping Cheah, Jianfeng Ren*, Qining Yang*, Linlin Shen*  
-*ICLR 2027 submission, under review (2026).*
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>SurgCouple</small></div></div><div class="publication-details"><div class="publication-title">SurgCouple: Coupling Global Context with Local Cues via Chain of Spatio-temporal Evidence for Surgical Video Understanding</div><div class="publication-authors"><strong>Gui Wang</strong>, Zirui Mo, Jianfeng Ren<em>, Linlin Shen</em>, Rong Qu, Wooi Ping Cheah</div><div class="publication-venue">ICLR 2027 submission, under review (2026).</div></div></div>
 
-**CCSAD: Cross-Image Cross-Scale Semantic Anchoring and Distillation for Small Lesion Segmentation**  
-**Gui Wang**, Jianfeng Ren*, Linlin Shen*  
-*IEEE Transactions on Image Processing, under review (2026).*
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>MultiKnee</small></div></div><div class="publication-details"><div class="publication-title">MultiKnee: A Multi-Sequence Multi-View MRI Benchmark for Evidence-Chain Knee Diagnosis</div><div class="publication-authors"><strong>Gui Wang</strong>, Yongsong Zhou, Yi Xu, Rong Qu, Wooi Ping Cheah, Jianfeng Ren<em>, Qining Yang</em>, Linlin Shen*</div><div class="publication-venue">ICLR 2027 submission, under review (2026).</div></div></div>
 
-**EyePCR: A Comprehensive Benchmark for Fine-Grained Perception, Knowledge Comprehension and Clinical Reasoning in Ophthalmic Surgery**  
-**Gui Wang**, Yang Wennuo, Xusen Ma, Zehao Zhong, Zhuoru Wu, Ende Wu, Jianfeng Ren*, Linlin Shen*  
-*Medical Image Analysis, under review (2026).*
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>CCSAD</small></div></div><div class="publication-details"><div class="publication-title">CCSAD: Cross-Image Cross-Scale Semantic Anchoring and Distillation for Small Lesion Segmentation</div><div class="publication-authors"><strong>Gui Wang</strong>, Jianfeng Ren<em>, Linlin Shen</em></div><div class="publication-venue">IEEE Transactions on Image Processing, under review (2026).</div></div></div>
 
-### Ongoing Research
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>EyePCR</small></div></div><div class="publication-details"><div class="publication-title">EyePCR: A Comprehensive Benchmark for Fine-Grained Perception, Knowledge Comprehension and Clinical Reasoning in Ophthalmic Surgery</div><div class="publication-authors"><strong>Gui Wang</strong>, Yang Wennuo, Xusen Ma, Zehao Zhong, Zhuoru Wu, Ende Wu, Jianfeng Ren<em>, Linlin Shen</em></div><div class="publication-venue">Medical Image Analysis, under review (2026).</div></div></div>
 
-**EyeWorld: Factorized Intervention–Response World Modeling for Ophthalmic Surgery**  
-**Gui Wang**, Zirui Mo, Jianfeng Ren*, Linlin Shen*  
-*Manuscript in preparation, 2026.*
+<h3 class="publication-group">Ongoing Research</h3>
 
-### Other Co-authored Publications
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>EyeWorld</small></div></div><div class="publication-details"><div class="publication-title">EyeWorld: Factorized Intervention–Response World Modeling for Ophthalmic Surgery</div><div class="publication-authors"><strong>Gui Wang</strong>, Zirui Mo, Jianfeng Ren<em>, Linlin Shen</em></div><div class="publication-venue">Manuscript in preparation, 2026.</div></div></div>
 
-[**PointFaceFormer: Local and Global Attention Based Transformer for 3D Point Cloud Face Recognition**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3DSNjtcAAAAJ&sortby=pubdate&citation_for_view=3DSNjtcAAAAJ:qjMakFHDy7sC)  
-Z. Gao, Q. Li, **G. Wang**, L. Shen  
-*2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG), 2024.*
+<h3 class="publication-group">Other Co-authored Publications</h3>
 
-[**Network Characteristics Adaption and Hierarchical Feature Exploration for Robust Object Recognition**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3DSNjtcAAAAJ&sortby=pubdate&citation_for_view=3DSNjtcAAAAJ:u5HHmVD_uO8C)  
-W. Xie, C. Luo, **G. Wang**, L. Shen, Z. Lai, S. Song  
-*Pattern Recognition, 149, 110240, 2024.*
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>PointFaceFormer</small></div></div><div class="publication-details"><div class="publication-title"><a class="publication-title-link" href="https://scholar.google.com/citations?view_op=view_citation&amp;user=3DSNjtcAAAAJ&amp;citation_for_view=3DSNjtcAAAAJ:qjMakFHDy7sC" target="_blank" rel="noopener noreferrer">PointFaceFormer: Local and Global Attention Based Transformer for 3D Point Cloud Face Recognition</a></div><div class="publication-authors">Z. Gao, Q. Li, <strong>G. Wang</strong>, L. Shen</div><div class="publication-venue">2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG), 2024.</div><div class="publication-links"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;user=3DSNjtcAAAAJ&amp;citation_for_view=3DSNjtcAAAAJ:qjMakFHDy7sC" target="_blank" rel="noopener noreferrer">[Paper]</a></div></div></div>
 
-[**TransFace: Parametric Attention Based Transformer for Face Recognition**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=3DSNjtcAAAAJ&sortby=pubdate&citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC)  
-Z. Luo, Z. Yang, **G. Wang**, C. Yin, X. Hou, L. Shen  
-*IET Conference Proceedings, CP862, 2023 (30), pp. 72–78.*
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>Network Characteristics Adaption a</small></div></div><div class="publication-details"><div class="publication-title"><a class="publication-title-link" href="https://doi.org/10.1016/j.patcog.2023.110240" target="_blank" rel="noopener noreferrer">Network Characteristics Adaption and Hierarchical Feature Exploration for Robust Object Recognition</a></div><div class="publication-authors">W. Xie, C. Luo, <strong>G. Wang</strong>, L. Shen, Z. Lai, S. Song</div><div class="publication-venue">Pattern Recognition, 149, 110240, 2024.</div><div class="publication-links"><a href="https://doi.org/10.1016/j.patcog.2023.110240" target="_blank" rel="noopener noreferrer">[Paper]</a></div></div></div>
 
-*Corresponding authors are marked with *. Publication status follows the supplied CV.*
+<div class="publication-entry"><div class="publication-figure"><div class="publication-no-figure"><span>Figure not yet hosted</span><small>TransFace</small></div></div><div class="publication-details"><div class="publication-title"><a class="publication-title-link" href="https://scholar.google.com/citations?view_op=view_citation&amp;user=3DSNjtcAAAAJ&amp;citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC" target="_blank" rel="noopener noreferrer">TransFace: Parametric Attention Based Transformer for Face Recognition</a></div><div class="publication-authors">Z. Luo, Z. Yang, <strong>G. Wang</strong>, C. Yin, X. Hou, L. Shen</div><div class="publication-venue">IET Conference Proceedings, CP862, 2023 (30), pp. 72–78.</div><div class="publication-links"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;user=3DSNjtcAAAAJ&amp;citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC" target="_blank" rel="noopener noreferrer">[Paper]</a></div></div></div>
+
+<p class="publication-footnote">* Corresponding authors where marked. Manuscript statuses reflect the supplied CV; images for additional papers will be added once source figures are verified.</p>
 
 ## Academic Service
 
