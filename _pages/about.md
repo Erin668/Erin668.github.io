@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a PhD candidate in the joint doctoral programme between the **University of Nottingham** and **Shenzhen University**, expected to graduate in February 2027. I am supervised by [Prof. Linlin Shen](https://ai.szu.edu.cn/english/info/1102/6222.htm), [Dr. Jianfeng Ren](https://unnc.globalimpact.cn/en/persons/jianfeng-ren/), and [Prof. Rong Qu](https://people.cs.nott.ac.uk/pszrq/).
+I am a PhD candidate in the joint doctoral programme between the [**University of Nottingham**](https://www.nottingham.ac.uk/) and [**Shenzhen University**](https://www.szu.edu.cn/). I am very fortunate to be advised by [Prof. Linlin Shen](https://ai.szu.edu.cn/english/info/1102/6222.htm), [Dr. Jianfeng Ren](https://unnc.globalimpact.cn/en/persons/jianfeng-ren/), and [Prof. Rong Qu](https://people.cs.nott.ac.uk/pszrq/).
 
 My research focuses on **multimodal medical AI, medical image and video understanding, evidence-grounded clinical reasoning, and generative world models**. I am interested in learning reliable representations from heterogeneous medical evidence, reasoning across clinical modalities, and predicting intervention-dependent future states.
 
