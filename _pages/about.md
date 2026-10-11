@@ -17,14 +17,14 @@ Welcome to contact me about research collaboration, please don't hesitate to dro
 
 ## News
 
-- **[2026.09]** Our co-authored paper [**MoCaf-Mamba**](https://papers.miccai.org/miccai-2026/0665-Paper3091.html) was published at **MICCAI 2026**.
+- **[2026.09]** Our paper [**MoCaf-Mamba**](https://papers.miccai.org/miccai-2026/0665-Paper3091.html) was published at **MICCAI 2026**.
 - **[2026.06]** Our paper [**SurgCoT**](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_SurgCoT_Advancing_Spatiotemporal_Reasoning_in_Surgical_Videos_through_a_Chain-of-Thought_CVPR_2026_paper.pdf) was published at **CVPR 2026**.
 - **[2026.06]** Our paper [**X-PCR**](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_X-PCR_A_Benchmark_for_Cross-modality_Progressive_Clinical_Reasoning_in_Ophthalmic_CVPR_2026_paper.pdf) was published at **CVPR 2026**.
 - **[2026.05]** Our paper [**M-MambaS**](https://doi.org/10.1016/j.patcog.2026.113923) was published in **Pattern Recognition**.
 - **[2025.04]** Our paper [**S³-Mamba**](https://doi.org/10.1609/aaai.v39i7.32824) was published at **AAAI 2025**.
-- **[2024.05]** Our co-authored paper [**PointFaceFormer**](https://doi.org/10.1109/FG59268.2024.10581966) was published at **FG 2024**.
-- **[2024.05]** Our co-authored paper [**Network Characteristics Adaption and Hierarchical Feature Exploration**](https://doi.org/10.1016/j.patcog.2023.110240) was published in **Pattern Recognition**.
-- **[2023.11]** Our co-authored paper [**TransFace**](https://scholar.google.com/citations?view_op=view_citation&user=3DSNjtcAAAAJ&citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC) was presented at **ICVISP 2023**.
+- **[2024.05]** Our paper [**PointFaceFormer**](https://doi.org/10.1109/FG59268.2024.10581966) was published at **FG 2024**.
+- **[2024.05]** Our paper [**Network Characteristics Adaption and Hierarchical Feature Exploration**](https://doi.org/10.1016/j.patcog.2023.110240) was published in **Pattern Recognition**.
+- **[2023.11]** Our paper [**TransFace**](https://scholar.google.com/citations?view_op=view_citation&user=3DSNjtcAAAAJ&citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC) was presented at **ICVISP 2023**.
 
 
 ## Research Interests
