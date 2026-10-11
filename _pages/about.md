@@ -27,6 +27,26 @@ I welcome research collaborations. Please feel free to contact me by email if yo
 - **[2023.11]** Our paper [**TransFace**](https://scholar.google.com/citations?view_op=view_citation&user=3DSNjtcAAAAJ&citation_for_view=3DSNjtcAAAAJ:2osOgNQ5qMEC) was presented at **ICVISP 2023**.
 
 
+## Research Projects
+
+<div class="research-projects">
+  <div class="research-project">
+    <h3>Fine-Grained Medical Image Understanding</h3>
+    <p><strong>S³-Mamba · M-MambaS</strong></p>
+    <p>Learning reliable lesion representations from subtle visual evidence and heterogeneous imaging modalities, with an emphasis on small lesion segmentation and multimodal feature fusion.</p>
+  </div>
+  <div class="research-project">
+    <h3>Multimodal Clinical Reasoning</h3>
+    <p><strong>SurgCoT · X-PCR · EyePCR · MultiKnee</strong></p>
+    <p>Developing and evaluating evidence-grounded reasoning across medical images, multi-sequence MRI and surgical videos, from perception and evidence interpretation to clinical decisions.</p>
+  </div>
+  <div class="research-project">
+    <h3>Generative Medical World Models</h3>
+    <p><strong>EyeWorld</strong></p>
+    <p>Investigating intervention-conditioned tissue responses and future surgical-state prediction to better understand how medical interventions influence subsequent visual states.</p>
+  </div>
+</div>
+
 ## Publications
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=3DSNjtcAAAAJ).
