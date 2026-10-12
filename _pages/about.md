@@ -91,7 +91,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Academic Service
 
-- **Conference Reviewer:** ICLR 2027, CVPR 2026, NeurIPS 2026, ACM Multimedia 2026, MICCAI 2026.
+- **Area Chair:** Agentic AI for Medicine Workshop (AgenticMed), MICCAI 2026.
+- **Conference Reviewer:** ICLR 2027; NeurIPS 2026; CVPR 2026; ACM Multimedia (ACM MM) 2026; ACM MM Dataset Track 2026; MICCAI 2026.
+- **Workshop Reviewer:** MICCAI SafeSurg Workshop 2026.
 - **Journal Reviewer:** IEEE Transactions on Medical Imaging; Pattern Recognition.
 
 <style>
